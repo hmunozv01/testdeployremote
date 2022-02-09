@@ -20,7 +20,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 	
 Hello from Docker!
-PRUEBA  despliegue continuo
+PRUEBA2  despliegue continuo
 `)
 }
 
