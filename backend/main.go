@@ -20,9 +20,7 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 	
 Hello from Docker!
-ESTE ES MI AMBIENTE DEVELOP ahora si que si
-
-cambio para pull request
+cambio en rama develop
 `)
 }
 
